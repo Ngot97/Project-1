@@ -5,7 +5,9 @@ This repository contains Python code for analyzing a worldwide earthquake databa
 ![image](https://github.com/Ngot97/Project-1/assets/150645979/35eb3f19-c4c7-4d21-bf8b-eee9a6813975)
 
 Getting Started
+
 Prerequisites
+
 Make sure you have the following dependencies installed:
 
 	Python 3
