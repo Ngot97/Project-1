@@ -1,4 +1,5 @@
 Worldwide Earthquake Database Analysis
+
 This repository contains Python code for analyzing a worldwide earthquake database. The dataset provides information about significant earthquakes, including their magnitudes, locations, and temporal patterns.
 
 ![image](https://github.com/Ngot97/Project-1/assets/150645979/35eb3f19-c4c7-4d21-bf8b-eee9a6813975)
