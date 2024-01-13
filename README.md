@@ -6,6 +6,7 @@ This repository contains Python code for analyzing a worldwide earthquake databa
 Getting Started
 Prerequisites
 Make sure you have the following dependencies installed:
+
 	Python 3
 	Jupyter Notebook
 	Required Python packages (matplotlib, pandas, numpy, hvplot, geoviews, geopandas, scipy, seaborn, folium)
@@ -20,23 +21,27 @@ Analysis Overview
 
 The analysis covers the following aspects:
 1. Exploration and Cleaning:
+   
 	Loading and exploring the dataset.
 	Narrowing down the columns for analysis.
 	Handling null values.
 
-3. Visualization:
+2. Visualization:
+   
 	Bar chart of the top 20 countries with the highest earthquake counts.
 	Bar chart of the top 20 countries with the highest earthquake intensity (intensity >= 7.5).
 	Scatter plot and an interactive map showcasing the distribution of earthquakes based on latitude and longitude.
 
-4. Pattern Analysis:
+3. Pattern Analysis:
+	
 	Heatmap based on the latitude and longitude.
 	Scatterplot based on earthquake intensity.
 	Distribution of earthquakes based on focal depth.
 	Time series analysis, including trends in earthquake occurrences over time.
 
-5. Magnitude Trends:
-	Line plot showcasing trends in earthquake magnitudes over time.
+4. Magnitude Trends:
+	
+ 	Line plot showcasing trends in earthquake magnitudes over time.
 	Linear regression analysis to identify the overall trend in earthquake occurrences.
 
 Results
