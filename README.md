@@ -21,29 +21,38 @@ Analysis Overview
 ![pacific-ring-of-fire](https://github.com/Ngot97/Project-1/assets/150645979/814b6be3-06ce-482b-964b-d166ccdd2c1e)
 
 The analysis covers the following aspects:
+
 1. Exploration and Cleaning:
    
 	Loading and exploring the dataset.
+
 	Narrowing down the columns for analysis.
-	Handling null values.
+	
+ 	Handling null values.
 
 2. Visualization:
    
 	Bar chart of the top 20 countries with the highest earthquake counts.
-	Bar chart of the top 20 countries with the highest earthquake intensity (intensity >= 7.5).
-	Scatter plot and an interactive map showcasing the distribution of earthquakes based on latitude and longitude.
+	
+ 	Bar chart of the top 20 countries with the highest earthquake intensity (intensity >= 7.5).
+	
+ 	Scatter plot and an interactive map showcasing the distribution of earthquakes based on latitude and longitude.
 
 3. Pattern Analysis:
 	
 	Heatmap based on the latitude and longitude.
-	Scatterplot based on earthquake intensity.
-	Distribution of earthquakes based on focal depth.
+	
+ 	Scatterplot based on earthquake intensity.
+	
+ 	Distribution of earthquakes based on focal depth.
+	
 	Time series analysis, including trends in earthquake occurrences over time.
 
 4. Magnitude Trends:
 	
  	Line plot showcasing trends in earthquake magnitudes over time.
-	Linear regression analysis to identify the overall trend in earthquake occurrences.
+	
+ 	Linear regression analysis to identify the overall trend in earthquake occurrences.
 
 Results
 The analysis provides insights into earthquake patterns, geographical hotspots, and trends over time. Refer to the generated visualizations and interpretation within the Jupyter Notebook.
