@@ -16,7 +16,7 @@ Make sure you have the following dependencies installed:
 
 Dataset
 
-The dataset used for this analysis is available on Kaggle. 
+The dataset used for this analysis is available on Kaggle. "Global Significant Earthquake Database from 2150BC" 
 
 Download the Worldwide-Earthquake-database.csv file and place it in the "Resources" folder.
 
@@ -63,5 +63,5 @@ The analysis provides insights into earthquake patterns, geographical hotspots, 
 
 
 Acknowledgments
-Dataset Source: Kaggle - Global Significant Earthquake Database
+Dataset Source: Kaggle - Global Significant Earthquake Database - "https://www.kaggle.com/datasets/mohitkr05/global-significant-earthquake-database-from-2150bc"
 Feel free to contribute, report issues, or suggest improvements.
