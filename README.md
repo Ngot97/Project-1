@@ -15,7 +15,9 @@ Make sure you have the following dependencies installed:
 	Required Python packages (matplotlib, pandas, numpy, hvplot, geoviews, geopandas, scipy, seaborn, folium)
 
 Dataset
+
 The dataset used for this analysis is available on Kaggle. 
+
 Download the Worldwide-Earthquake-database.csv file and place it in the "Resources" folder.
 
 Analysis Overview
