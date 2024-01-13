@@ -15,6 +15,7 @@ The dataset used for this analysis is available on Kaggle.
 Download the Worldwide-Earthquake-database.csv file and place it in the "Resources" folder.
 
 Analysis Overview
+
 ![pacific-ring-of-fire](https://github.com/Ngot97/Project-1/assets/150645979/814b6be3-06ce-482b-964b-d166ccdd2c1e)
 
 The analysis covers the following aspects:
