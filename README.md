@@ -63,5 +63,7 @@ The analysis provides insights into earthquake patterns, geographical hotspots, 
 
 
 Acknowledgments
+
 Dataset Source: Kaggle - Global Significant Earthquake Database - "https://www.kaggle.com/datasets/mohitkr05/global-significant-earthquake-database-from-2150bc"
+
 Feel free to contribute, report issues, or suggest improvements.
