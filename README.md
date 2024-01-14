@@ -44,7 +44,7 @@ The analysis covers the following aspects:
 
 3. Pattern Analysis:
 	
-	Heatmap based on the latitude and longitude.
+	A heatmap depicting the distribution of earthquake intensity based on latitude and longitude.
 	
  	Scatterplot based on earthquake intensity.
 	
@@ -52,14 +52,19 @@ The analysis covers the following aspects:
 	
 	Time series analysis, including trends in earthquake occurrences over time.
 
-4. Magnitude Trends:
+
+5. Magnitude Trends:
 	
- 	Line plot showcasing trends in earthquake magnitudes over time.
+ 	LLinear Regression: EQ_PRIMARY vs. INTENSITY - A scatter plot with a linear regression line exploring the correlation between earthquake magnitude and intensity.
 	
- 	Linear regression analysis to identify the overall trend in earthquake occurrences.
+ 	Linear regression analysis to identify the overall trend in earthquake occurrences. - 
+
+6. Tsunami Occurrence:
+   
+	A pie chart depicting the percentage of earthquakes that trigger tsunamis.
 
 Results
-The analysis provides insights into earthquake patterns, geographical hotspots, and trends over time. Refer to the generated visualizations and interpretation within the Jupyter Notebook.
+The analysis provides valuable insights into earthquake patterns, intensity distribution, and trends over time. Explore the generated plots and maps to gain a comprehensive understanding of seismic activity worldwide.
 
 
 Acknowledgments
