@@ -64,6 +64,7 @@ The analysis covers the following aspects:
 	A pie chart depicting the percentage of earthquakes that trigger tsunamis.
 
 Results
+
 The analysis provides valuable insights into earthquake patterns, intensity distribution, and trends over time. Explore the generated plots and maps to gain a comprehensive understanding of seismic activity worldwide.
 
 
